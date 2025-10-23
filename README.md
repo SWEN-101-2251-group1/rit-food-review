@@ -6,5 +6,5 @@ this site aims to help you make informed decisions about where to eat on campus.
 ## Made by the following people:
 - [John Mulligan](https://github.com/jmulligan191)
 - [Colin He](https://github.com/ColinGHe)
-- [Your Name](https://github.com/yourusername)
+- [Hansen Rapp](https://github.com/Untitled-dog)
 - [Your Name](https://github.com/yourusername)
